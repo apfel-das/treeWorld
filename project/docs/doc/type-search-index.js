@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"trees","l":"BinarySearchTree"},{"p":"trees","l":"BinarySearchTreeDynamic"},{"p":"trees","l":"BinarySearchTreeStatic"},{"p":"treeUtillities","l":"Node"},{"p":"test","l":"TestCase_1"},{"p":"test","l":"TreeGenerator"}]
